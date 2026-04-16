@@ -1,0 +1,3020 @@
+Detected Patterns:
+dass_clause: 25
+modal_verbs: 13
+
+Most Common Words:
+sagte: 29
+aber: 26
+daß: 25
+wächter: 23
+als: 21
+sein: 20
+ihn: 18
+ihm: 17
+doch: 17
+wie: 16
+des: 16
+aus: 14
+so: 14
+ihnen: 14
+noch: 13
+man: 13
+jetzt: 13
+denn: 12
+sind: 12
+im: 12
+
+Top Bigrams:
+('frau', 'grubach'): 6
+('ohne', 'daß'): 4
+('sagte', 'wächter'): 4
+('alte', 'frau'): 3
+('dann', 'aber'): 3
+('im', 'nebenzimmer'): 3
+('schien', 'ihm'): 3
+('wir', 'sind'): 3
+('werden', 'alles'): 3
+('gewesen', 'wäre'): 3
+
+Word Frequencies:
+franz: 11
+kafka: 1
+prozess: 1
+jemand: 1
+mußte: 4
+josef: 1
+verleumdet: 1
+haben: 11
+denn: 12
+ohne: 8
+daß: 25
+etwas: 1
+böses: 1
+getan: 1
+hätte: 8
+wurde: 5
+eines: 2
+morgens: 1
+verhaftet: 3
+köchin: 1
+frau: 9
+grubach: 6
+seiner: 3
+zimmervermieterin: 1
+ihm: 17
+jeden: 1
+tag: 1
+gegen: 2
+acht: 1
+uhr: 1
+früh: 2
+frühstück: 9
+brachte: 1
+kam: 2
+diesmal: 3
+noch: 13
+niemals: 2
+geschehen: 2
+wartete: 1
+weilchen: 3
+sah: 10
+seinem: 4
+kopfkissen: 1
+aus: 14
+alte: 3
+gegenüber: 5
+wohnte: 1
+ihn: 18
+einer: 4
+an: 10
+ihr: 5
+ganz: 4
+ungewöhnlichen: 1
+neugierde: 2
+beobachtete: 2
+dann: 8
+aber: 26
+gleichzeitig: 4
+befremdet: 1
+hungrig: 1
+läutete: 1
+sofort: 2
+klopfte: 2
+mann: 6
+dieser: 6
+wohnung: 2
+gesehen: 2
+hatte: 10
+trat: 1
+schlank: 1
+doch: 17
+fest: 1
+gebaut: 1
+trug: 1
+anliegendes: 1
+schwarzes: 2
+kleid: 2
+ähnlich: 1
+reiseanzügen: 1
+verschiedenen: 1
+falten: 1
+taschen: 1
+schnallen: 1
+knöpfen: 1
+einem: 9
+gürtel: 1
+versehen: 1
+infolgedessen: 1
+man: 13
+darüber: 1
+klar: 1
+wozu: 1
+dienen: 1
+sollte: 5
+besonders: 3
+praktisch: 1
+erschien: 1
+wer: 3
+sind: 12
+fragte: 4
+saß: 3
+gleich: 5
+halb: 1
+aufrecht: 2
+im: 12
+bett: 5
+ging: 6
+über: 8
+frage: 1
+hinweg: 2
+als: 21
+müsse: 1
+seine: 10
+erscheinung: 1
+hinnehmen: 1
+sagte: 29
+bloß: 1
+seinerseits: 1
+geläutet: 1
+anna: 2
+soll: 2
+mir: 6
+bringen: 4
+versuchte: 1
+zunächst: 1
+stillschweigend: 1
+durch: 11
+aufmerksamkeit: 1
+überlegung: 1
+festzustellen: 1
+eigentlich: 1
+setzte: 1
+allzu: 1
+lange: 3
+seinen: 5
+blicken: 1
+sondern: 5
+wandte: 1
+zur: 3
+tür: 10
+wenig: 2
+öffnete: 5
+um: 4
+jemandem: 1
+offenbar: 2
+knapp: 2
+hinter: 3
+stand: 4
+sagen: 6
+will: 4
+bringt: 1
+kleines: 3
+gelächter: 1
+nebenzimmer: 7
+folgte: 1
+nach: 3
+klang: 1
+sicher: 1
+ob: 3
+mehrere: 1
+personen: 1
+daran: 2
+beteiligt: 1
+waren: 4
+trotzdem: 4
+fremde: 3
+dadurch: 5
+nichts: 4
+erfahren: 2
+konnte: 5
+was: 12
+schon: 7
+früher: 2
+gewußt: 1
+nun: 9
+tone: 1
+meldung: 2
+unmöglich: 1
+wäre: 9
+neu: 1
+sprang: 1
+zog: 3
+rasch: 1
+hosen: 1
+sehn: 2
+für: 8
+leute: 2
+wie: 16
+diese: 3
+störung: 1
+verantworten: 1
+wird: 3
+fiel: 2
+zwar: 3
+laut: 1
+müssen: 3
+gewissermaßen: 2
+beaufsichtigungsrecht: 1
+des: 16
+fremden: 1
+anerkannte: 1
+schien: 3
+jetzt: 13
+wichtig: 1
+immerhin: 1
+faßte: 1
+so: 14
+wollen: 6
+lieber: 2
+hierbleiben: 2
+weder: 1
+ihnen: 14
+angesprochen: 1
+werden: 11
+solange: 1
+vorstellen: 1
+gut: 1
+gemeint: 1
+freiwillig: 1
+langsamer: 1
+eintrat: 1
+wollte: 7
+ersten: 3
+blick: 2
+fast: 3
+genau: 3
+am: 3
+abend: 2
+vorher: 1
+wohnzimmer: 1
+vielleicht: 10
+diesem: 3
+möbeln: 1
+decken: 1
+porzellan: 1
+photographien: 1
+überfüllten: 1
+zimmer: 12
+heute: 3
+mehr: 4
+raum: 2
+sonst: 3
+erkannte: 2
+weniger: 1
+hauptveränderung: 1
+anwesenheit: 1
+mannes: 1
+bestand: 1
+beim: 6
+offenen: 2
+fenster: 8
+buch: 2
+aufblickte: 1
+hätten: 2
+ihrem: 4
+bleiben: 1
+sollen: 1
+hat: 1
+gesagt: 1
+ja: 4
+neuen: 1
+bekanntschaft: 1
+benannten: 1
+stehengeblieben: 1
+wieder: 9
+zurück: 4
+offene: 1
+erblickte: 2
+wahrhaft: 1
+greisenhafter: 1
+gegenüberliegenden: 2
+getreten: 1
+auch: 9
+weiterhin: 2
+alles: 8
+machte: 1
+bewegung: 1
+reiße: 1
+zwei: 3
+männern: 1
+los: 1
+weit: 1
+entfernt: 1
+standen: 2
+weitergehn: 1
+nein: 1
+warf: 3
+tischchen: 2
+dürfen: 1
+weggehn: 1
+gefangen: 1
+sieht: 1
+warum: 2
+wir: 11
+dazu: 4
+bestellt: 1
+gehn: 4
+warten: 2
+verfahren: 2
+einmal: 3
+eingeleitet: 1
+richtigen: 1
+zeit: 4
+gehe: 1
+meinen: 1
+auftrag: 1
+hinaus: 1
+wenn: 11
+freundschaftlich: 2
+zurede: 1
+hoffe: 1
+hört: 1
+niemand: 1
+selbst: 7
+alle: 4
+vorschrift: 1
+freundlich: 1
+viel: 6
+glück: 1
+bei: 5
+bestimmung: 1
+ihrer: 2
+wächter: 23
+können: 5
+zuversichtlich: 2
+sein: 20
+setzen: 1
+ganzen: 3
+keine: 3
+sitzgelegenheit: 1
+außer: 1
+sessel: 1
+einsehn: 1
+wahr: 1
+andern: 2
+letztere: 2
+überragte: 1
+bedeutend: 1
+öfters: 2
+schulter: 1
+beide: 1
+prüften: 1
+nachthemd: 1
+sagten: 4
+schlechteres: 1
+hemd: 4
+werde: 2
+anziehn: 1
+dieses: 5
+übrige: 1
+wäsche: 1
+aufbewahren: 1
+sache: 3
+günstig: 1
+ausfallen: 1
+zurückgeben: 1
+würden: 5
+besser: 2
+geben: 3
+sachen: 3
+uns: 7
+ins: 4
+depot: 3
+kommen: 2
+unterschleife: 1
+vor: 5
+außerdem: 1
+verkauft: 1
+dort: 6
+gewissen: 1
+rücksicht: 1
+betreffende: 1
+ende: 3
+oder: 6
+dauern: 1
+derartige: 1
+prozesse: 1
+letzter: 1
+bekämen: 1
+schließlich: 2
+allerdings: 2
+vom: 3
+erlös: 2
+erstens: 1
+gering: 1
+verkauf: 1
+entscheidet: 1
+höhe: 2
+angebotes: 1
+bestechung: 1
+weiter: 2
+verringern: 1
+solche: 3
+erlöse: 1
+erfahrungsgemäß: 1
+hand: 4
+jahr: 2
+weitergegeben: 1
+achtete: 1
+reden: 3
+kaum: 3
+verfügungsrecht: 1
+besaß: 2
+schätzte: 1
+hoch: 1
+wichtiger: 1
+klarheit: 1
+lage: 2
+bekommen: 3
+gegenwart: 1
+nachdenken: 1
+immer: 3
+stieß: 1
+bauch: 1
+zweiten: 1
+wächters: 2
+konnten: 1
+nur: 9
+förmlich: 2
+dicken: 1
+körper: 1
+gar: 7
+passendes: 1
+trockenes: 1
+knochiges: 1
+gesicht: 2
+starker: 1
+seitlich: 1
+gedrehter: 1
+nase: 1
+verständigte: 1
+menschen: 2
+wovon: 1
+sprachen: 1
+welcher: 1
+behörde: 2
+gehörten: 1
+lebte: 1
+rechtsstaat: 1
+überall: 1
+herrschte: 1
+friede: 1
+gesetze: 1
+bestanden: 1
+wagte: 1
+überfallen: 1
+neigte: 1
+stets: 1
+möglichst: 1
+leicht: 2
+nehmen: 1
+schlimmste: 1
+erst: 2
+eintritt: 1
+schlimmsten: 1
+glauben: 3
+vorsorge: 1
+zukunft: 1
+treffen: 1
+drohte: 1
+hier: 4
+richtig: 1
+ganze: 1
+spaß: 3
+ansehn: 1
+einen: 10
+groben: 1
+unbekannten: 1
+gründen: 1
+weil: 2
+dreißigster: 1
+geburtstag: 1
+kollegen: 1
+bank: 2
+veranstaltet: 1
+hatten: 4
+natürlich: 2
+möglich: 2
+brauchte: 1
+irgendeine: 1
+weise: 2
+wächtern: 4
+lachen: 1
+mitlachen: 1
+dienstmänner: 1
+straßenecke: 1
+sahen: 1
+unähnlich: 1
+seit: 2
+anblick: 1
+entschlossen: 1
+geringsten: 1
+vorteil: 1
+diesen: 2
+leuten: 1
+darin: 3
+später: 1
+würde: 3
+habe: 1
+keinen: 2
+verstanden: 1
+geringe: 1
+gefahr: 2
+wohl: 4
+erinnerte: 1
+gewohnheit: 1
+gewesen: 5
+erfahrungen: 1
+lernen: 1
+einige: 2
+unbedeutende: 1
+fälle: 1
+denen: 1
+zum: 8
+unterschied: 1
+freunden: 1
+bewußtsein: 1
+geringste: 1
+gefühl: 1
+möglichen: 1
+folgen: 1
+unvorsichtig: 1
+benommen: 1
+dafür: 2
+ergebnis: 1
+gestraft: 1
+worden: 2
+zumindest: 2
+komödie: 1
+mitspielen: 1
+frei: 1
+erlauben: 1
+eilig: 1
+zwischen: 1
+scheint: 1
+vernünftig: 1
+hörte: 1
+riß: 1
+schubladen: 1
+schreibtischs: 1
+lag: 1
+großer: 1
+ordnung: 1
+gerade: 3
+legitimationspapiere: 3
+suchte: 3
+aufregung: 1
+finden: 2
+fand: 2
+radfahrlegitimation: 1
+papier: 1
+geringfügig: 1
+bis: 3
+geburtsschein: 1
+zurückkam: 1
+gegenüberliegende: 1
+eintreten: 1
+augenblick: 1
+erkannt: 1
+verlegen: 1
+verzeihung: 1
+bat: 1
+verschwand: 1
+äußerst: 1
+vorsichtig: 1
+schloß: 1
+herein: 1
+papieren: 1
+mitte: 2
+zimmers: 4
+hin: 1
+anruf: 1
+aufgeschreckt: 1
+saßen: 2
+verzehrten: 1
+eingetreten: 1
+darf: 1
+große: 3
+kann: 3
+fangen: 1
+also: 1
+tauchte: 1
+butterbrot: 1
+honigfäßchen: 1
+fragen: 1
+beantworten: 2
+meine: 2
+zeigen: 1
+ihrigen: 1
+allem: 1
+verhaftbefehl: 2
+du: 2
+himmel: 1
+ihre: 3
+fügen: 1
+darauf: 2
+angelegt: 1
+scheinen: 1
+wahrscheinlich: 2
+allen: 1
+ihren: 3
+mitmenschen: 1
+nächsten: 1
+stehn: 2
+nutzlos: 1
+reizen: 1
+führte: 1
+kaffeetasse: 1
+hielt: 3
+mund: 1
+langen: 1
+bedeutungsvollen: 1
+unverständlichen: 1
+ließ: 1
+zwiegespräch: 1
+blicke: 1
+schlug: 2
+papiere: 1
+kümmern: 1
+rief: 3
+führen: 3
+ärger: 1
+kind: 1
+großen: 2
+verfluchten: 1
+prozeß: 1
+raschen: 1
+legitimation: 1
+diskutieren: 1
+niedrige: 1
+angestellte: 1
+legitimationspapier: 1
+auskennen: 1
+anderes: 2
+tun: 4
+zehn: 1
+stunden: 1
+täglich: 1
+wache: 1
+halten: 1
+bezahlt: 1
+fähig: 1
+einzusehn: 1
+hohen: 2
+behörden: 1
+deren: 1
+dienst: 2
+ehe: 1
+verhaftung: 2
+verfügen: 1
+sehr: 3
+gründe: 1
+person: 1
+verhafteten: 1
+unterrichten: 1
+gibt: 2
+irrtum: 2
+unsere: 1
+soweit: 1
+kenne: 4
+niedrigsten: 2
+grade: 1
+sucht: 1
+etwa: 2
+schuld: 2
+bevölkerung: 1
+gesetz: 4
+heißt: 1
+angezogen: 2
+muß: 4
+ausschicken: 1
+wo: 2
+gäbe: 1
+da: 2
+desto: 1
+schlimmer: 1
+besteht: 1
+köpfen: 1
+irgendwie: 1
+gedanken: 2
+einschleichen: 1
+gunsten: 1
+wenden: 1
+einbürgern: 1
+abweisend: 1
+fühlen: 1
+mischte: 1
+sieh: 1
+willem: 4
+behauptet: 1
+schuldlos: 1
+hast: 1
+recht: 2
+begreiflich: 2
+machen: 4
+andere: 1
+antwortete: 1
+dachte: 1
+geschwätz: 1
+organe: 1
+mich: 5
+verwirren: 1
+lassen: 2
+jedenfalls: 2
+dingen: 1
+verstehn: 1
+sicherheit: 2
+dummheit: 1
+paar: 1
+worte: 1
+ebenbürtigen: 1
+sprechen: 1
+unvergleichlich: 1
+klarer: 1
+längsten: 1
+male: 1
+freien: 1
+ab: 1
+drüben: 3
+ältern: 1
+greis: 1
+gezerrt: 1
+umschlungen: 1
+schaustellung: 1
+vorgesetzten: 1
+wünscht: 1
+genannt: 1
+rate: 1
+fügte: 1
+hinzu: 1
+ruhig: 2
+verhalten: 1
+verfügt: 1
+raten: 1
+zerstreuen: 1
+nutzlose: 1
+sammeln: 1
+anforderungen: 1
+gestellt: 1
+behandelt: 1
+unser: 1
+entgegenkommen: 1
+verdient: 1
+vergessen: 2
+mögen: 1
+freie: 1
+männer: 1
+kein: 1
+übergewicht: 1
+bereit: 1
+falls: 1
+geld: 1
+kaffeehaus: 1
+angebot: 1
+antworten: 1
+lang: 1
+still: 1
+beiden: 4
+folgenden: 1
+vorzimmers: 1
+öffnen: 1
+hindern: 1
+wagen: 1
+einfachste: 1
+lösung: 2
+spitze: 1
+trieb: 1
+packen: 1
+niedergeworfen: 1
+überlegenheit: 1
+verloren: 1
+gewisser: 1
+hinsicht: 1
+wahrte: 1
+deshalb: 1
+natürliche: 1
+verlauf: 1
+seite: 2
+weiteres: 1
+wort: 1
+gefallen: 1
+nahm: 1
+waschtisch: 1
+schönen: 1
+apfel: 1
+gestern: 1
+vorbereitet: 1
+einziges: 1
+bissen: 1
+versicherte: 1
+schmutzigen: 1
+nachtcafé: 1
+gnade: 1
+fühlte: 1
+versäumte: 1
+vormittag: 1
+verhältnismäßig: 1
+stellung: 1
+einnahm: 1
+entschuldigt: 1
+wirkliche: 1
+entschuldigung: 1
+anführen: 1
+gedachte: 1
+fall: 2
+zeugin: 1
+alten: 1
+marsch: 1
+wunderte: 2
+wenigstens: 1
+gedankengang: 2
+getrieben: 1
+allein: 2
+gelassen: 1
+mehrfache: 1
+möglichkeit: 1
+umzubringen: 2
+grund: 1
+könnte: 1
+nebenan: 1
+abgefangen: 1
+sinnlos: 1
+infolge: 2
+sinnlosigkeit: 1
+imstande: 1
+geistige: 1
+beschränktheit: 1
+auffallend: 1
+annehmen: 1
+gleichen: 1
+überzeugung: 1
+mochten: 1
+wollten: 1
+zusehn: 1
+wandschränkchen: 1
+guten: 1
+schnaps: 1
+aufbewahrte: 1
+gläschen: 2
+zuerst: 1
+ersatz: 1
+frühstücks: 1
+leerte: 1
+zweites: 1
+bestimmte: 1
+mut: 1
+vorsicht: 1
+unwahrscheinlichen: 1
+nötig: 1
+erschreckte: 2
+zuruf: 1
+derartig: 1
+zähnen: 1
+ans: 1
+glas: 1
+aufseher: 4
+ruft: 1
+hieß: 1
+schreien: 2
+kurze: 1
+abgehackte: 1
+militärische: 1
+zugetraut: 1
+befehl: 1
+willkommen: 1
+endlich: 1
+versperrte: 1
+wandschrank: 1
+eilte: 1
+jagten: 1
+selbstverständlich: 1
+fällt: 1
+euch: 2
+riefen: 1
+wollt: 1
+läßt: 1
+durchprügeln: 1
+laßt: 1
+teufel: 1
+kleiderkasten: 2
+zurückgedrängt: 1
+überfällt: 1
+erwarten: 1
+festanzug: 1
+hilft: 1
+schrie: 1
+traurig: 1
+wurden: 1
+verwirrten: 1
+besinnung: 1
+brachten: 1
+lächerliche: 1
+zeremonien: 1
+brummte: 1
+hob: 1
+rock: 4
+stuhl: 1
+händen: 1
+unterbreite: 1
+urteil: 1
+schüttelten: 1
+köpfe: 1
+schwarzer: 2
+daraufhin: 1
+boden: 1
+wußte: 2
+welchem: 1
+sinn: 1
+hauptverhandlung: 1
+lächelten: 1
+blieben: 1
+beschleunige: 1
+unter: 2
+vielen: 1
+kleidern: 1
+wählte: 1
+bestes: 1
+jackettkleid: 1
+taille: 1
+bekannten: 1
+aufsehen: 1
+gemacht: 1
+hervor: 1
+begann: 1
+sorgfältig: 1
+anzuziehn: 1
+geheimen: 1
+glaubte: 1
+beschleunigung: 1
+damit: 1
+erreicht: 1
+bad: 1
+zwingen: 1
+erinnern: 1
+dagegen: 1
+vergaß: 1
+anziehe: 1
+schicken: 1
+vollständig: 1
+leere: 1
+folgende: 1
+dessen: 1
+flügeln: 1
+bereits: 1
+geöffnet: 1
+kurzer: 1
+fräulein: 1
+bürstner: 1
+schreibmaschinistin: 1
+bewohnt: 1
+arbeit: 1
+gehen: 1
+pflegte: 1
+spät: 1
+hause: 1
+grußworte: 1
+gewechselt: 1
+nachttischchen: 1
+verhandlungstisch: 1
+gerückt: 1
+beine: 1
+übereinandergeschlagen: 1
+arm: 1
+rückenlehne: 1
+stuhles: 1
+gelegt: 1
+
+Bigram Frequencies:
+('franz', 'kafka'): 1
+('kafka', 'prozess'): 1
+('prozess', 'jemand'): 1
+('jemand', 'mußte'): 1
+('mußte', 'josef'): 1
+('josef', 'verleumdet'): 1
+('verleumdet', 'haben'): 1
+('haben', 'denn'): 1
+('denn', 'ohne'): 1
+('ohne', 'daß'): 4
+('daß', 'etwas'): 1
+('etwas', 'böses'): 1
+('böses', 'getan'): 1
+('getan', 'hätte'): 1
+('hätte', 'wurde'): 1
+('wurde', 'eines'): 1
+('eines', 'morgens'): 1
+('morgens', 'verhaftet'): 1
+('verhaftet', 'köchin'): 1
+('köchin', 'frau'): 1
+('frau', 'grubach'): 6
+('grubach', 'seiner'): 1
+('seiner', 'zimmervermieterin'): 1
+('zimmervermieterin', 'ihm'): 1
+('ihm', 'jeden'): 1
+('jeden', 'tag'): 1
+('tag', 'gegen'): 1
+('gegen', 'acht'): 1
+('acht', 'uhr'): 1
+('uhr', 'früh'): 1
+('früh', 'frühstück'): 1
+('frühstück', 'brachte'): 1
+('brachte', 'kam'): 1
+('kam', 'diesmal'): 1
+('diesmal', 'noch'): 1
+('noch', 'niemals'): 2
+('niemals', 'geschehen'): 1
+('geschehen', 'wartete'): 1
+('wartete', 'noch'): 1
+('noch', 'weilchen'): 1
+('weilchen', 'sah'): 1
+('sah', 'seinem'): 1
+('seinem', 'kopfkissen'): 1
+('kopfkissen', 'aus'): 1
+('aus', 'alte'): 1
+('alte', 'frau'): 3
+('frau', 'ihm'): 1
+('ihm', 'gegenüber'): 1
+('gegenüber', 'wohnte'): 1
+('wohnte', 'ihn'): 1
+('ihn', 'einer'): 1
+('einer', 'an'): 1
+('an', 'ihr'): 1
+('ihr', 'ganz'): 1
+('ganz', 'ungewöhnlichen'): 1
+('ungewöhnlichen', 'neugierde'): 1
+('neugierde', 'beobachtete'): 1
+('beobachtete', 'dann'): 1
+('dann', 'aber'): 3
+('aber', 'gleichzeitig'): 1
+('gleichzeitig', 'befremdet'): 1
+('befremdet', 'hungrig'): 1
+('hungrig', 'läutete'): 1
+('läutete', 'sofort'): 1
+('sofort', 'klopfte'): 1
+('klopfte', 'mann'): 1
+('mann', 'dieser'): 1
+('dieser', 'wohnung'): 1
+('wohnung', 'noch'): 1
+('niemals', 'gesehen'): 1
+('gesehen', 'hatte'): 1
+('hatte', 'trat'): 1
+('trat', 'schlank'): 1
+('schlank', 'doch'): 1
+('doch', 'fest'): 1
+('fest', 'gebaut'): 1
+('gebaut', 'trug'): 1
+('trug', 'anliegendes'): 1
+('anliegendes', 'schwarzes'): 1
+('schwarzes', 'kleid'): 2
+('kleid', 'ähnlich'): 1
+('ähnlich', 'reiseanzügen'): 1
+('reiseanzügen', 'verschiedenen'): 1
+('verschiedenen', 'falten'): 1
+('falten', 'taschen'): 1
+('taschen', 'schnallen'): 1
+('schnallen', 'knöpfen'): 1
+('knöpfen', 'einem'): 1
+('einem', 'gürtel'): 1
+('gürtel', 'versehen'): 1
+('versehen', 'infolgedessen'): 1
+('infolgedessen', 'ohne'): 1
+('daß', 'man'): 2
+('man', 'darüber'): 1
+('darüber', 'klar'): 1
+('klar', 'wurde'): 1
+('wurde', 'wozu'): 1
+('wozu', 'dienen'): 1
+('dienen', 'sollte'): 1
+('sollte', 'besonders'): 1
+('besonders', 'praktisch'): 1
+('praktisch', 'erschien'): 1
+('erschien', 'wer'): 1
+('wer', 'sind'): 1
+('sind', 'fragte'): 1
+('fragte', 'saß'): 1
+('saß', 'gleich'): 1
+('gleich', 'halb'): 1
+('halb', 'aufrecht'): 1
+('aufrecht', 'im'): 1
+('im', 'bett'): 2
+('bett', 'mann'): 1
+('mann', 'aber'): 1
+('aber', 'ging'): 1
+('ging', 'über'): 1
+('über', 'frage'): 1
+('frage', 'hinweg'): 1
+('hinweg', 'als'): 1
+('als', 'müsse'): 1
+('müsse', 'man'): 1
+('man', 'seine'): 1
+('seine', 'erscheinung'): 1
+('erscheinung', 'hinnehmen'): 1
+('hinnehmen', 'sagte'): 1
+('sagte', 'bloß'): 1
+('bloß', 'seinerseits'): 1
+('seinerseits', 'haben'): 1
+('haben', 'geläutet'): 1
+('geläutet', 'anna'): 1
+('anna', 'soll'): 1
+('soll', 'mir'): 2
+('mir', 'frühstück'): 1
+('frühstück', 'bringen'): 1
+('bringen', 'sagte'): 1
+('sagte', 'versuchte'): 1
+('versuchte', 'zunächst'): 1
+('zunächst', 'stillschweigend'): 1
+('stillschweigend', 'durch'): 1
+('durch', 'aufmerksamkeit'): 1
+('aufmerksamkeit', 'überlegung'): 1
+('überlegung', 'festzustellen'): 1
+('festzustellen', 'wer'): 1
+('wer', 'mann'): 1
+('mann', 'eigentlich'): 1
+('eigentlich', 'aber'): 1
+('aber', 'dieser'): 2
+('dieser', 'setzte'): 1
+('setzte', 'allzu'): 1
+('allzu', 'lange'): 1
+('lange', 'seinen'): 1
+('seinen', 'blicken'): 1
+('blicken', 'aus'): 1
+('aus', 'sondern'): 1
+('sondern', 'wandte'): 1
+('wandte', 'zur'): 1
+('zur', 'tür'): 1
+('tür', 'wenig'): 1
+('wenig', 'öffnete'): 1
+('öffnete', 'um'): 1
+('um', 'jemandem'): 1
+('jemandem', 'offenbar'): 1
+('offenbar', 'knapp'): 1
+('knapp', 'hinter'): 1
+('hinter', 'tür'): 1
+('tür', 'stand'): 1
+('stand', 'sagen'): 1
+('sagen', 'will'): 1
+('will', 'daß'): 1
+('daß', 'anna'): 1
+('anna', 'ihm'): 1
+('ihm', 'frühstück'): 1
+('frühstück', 'bringt'): 1
+('bringt', 'kleines'): 1
+('kleines', 'gelächter'): 1
+('gelächter', 'im'): 1
+('im', 'nebenzimmer'): 3
+('nebenzimmer', 'folgte'): 1
+('folgte', 'nach'): 1
+('nach', 'klang'): 1
+('klang', 'sicher'): 1
+('sicher', 'ob'): 1
+('ob', 'mehrere'): 1
+('mehrere', 'personen'): 1
+('personen', 'daran'): 1
+('daran', 'beteiligt'): 1
+('beteiligt', 'waren'): 1
+('waren', 'trotzdem'): 1
+('trotzdem', 'fremde'): 1
+('fremde', 'mann'): 1
+('mann', 'dadurch'): 1
+('dadurch', 'nichts'): 1
+('nichts', 'erfahren'): 1
+('erfahren', 'haben'): 1
+('haben', 'konnte'): 1
+('konnte', 'was'): 1
+('was', 'schon'): 1
+('schon', 'früher'): 1
+('früher', 'gewußt'): 1
+('gewußt', 'hätte'): 1
+('hätte', 'sagte'): 1
+('sagte', 'nun'): 1
+('nun', 'doch'): 1
+('doch', 'im'): 1
+('im', 'tone'): 1
+('tone', 'einer'): 1
+('einer', 'meldung'): 1
+('meldung', 'unmöglich'): 1
+('unmöglich', 'wäre'): 1
+('wäre', 'neu'): 1
+('neu', 'sagte'): 1
+('sagte', 'sprang'): 1
+('sprang', 'aus'): 1
+('aus', 'bett'): 1
+('bett', 'zog'): 1
+('zog', 'rasch'): 1
+('rasch', 'seine'): 1
+('seine', 'hosen'): 1
+('hosen', 'an'): 1
+('an', 'will'): 1
+('will', 'doch'): 2
+('doch', 'sehn'): 1
+('sehn', 'was'): 1
+('was', 'für'): 2
+('für', 'leute'): 1
+('leute', 'im'): 1
+('nebenzimmer', 'sind'): 1
+('sind', 'wie'): 1
+('wie', 'frau'): 1
+('grubach', 'diese'): 1
+('diese', 'störung'): 1
+('störung', 'mir'): 1
+('mir', 'gegenüber'): 1
+('gegenüber', 'verantworten'): 1
+('verantworten', 'wird'): 1
+('wird', 'fiel'): 1
+('fiel', 'ihm'): 1
+('ihm', 'zwar'): 1
+('zwar', 'gleich'): 1
+('gleich', 'daß'): 1
+('daß', 'hätte'): 1
+('hätte', 'laut'): 1
+('laut', 'sagen'): 1
+('sagen', 'müssen'): 1
+('müssen', 'daß'): 2
+('daß', 'dadurch'): 1
+('dadurch', 'gewissermaßen'): 1
+('gewissermaßen', 'beaufsichtigungsrecht'): 1
+('beaufsichtigungsrecht', 'des'): 1
+('des', 'fremden'): 1
+('fremden', 'anerkannte'): 1
+('anerkannte', 'aber'): 1
+('aber', 'schien'): 2
+('schien', 'ihm'): 3
+('ihm', 'jetzt'): 1
+('jetzt', 'wichtig'): 1
+('wichtig', 'immerhin'): 1
+('immerhin', 'faßte'): 1
+('faßte', 'fremde'): 1
+('fremde', 'so'): 1
+('so', 'denn'): 1
+('denn', 'sagte'): 2
+('sagte', 'wollen'): 1
+('wollen', 'lieber'): 1
+('lieber', 'hierbleiben'): 1
+('hierbleiben', 'will'): 1
+('will', 'weder'): 1
+('weder', 'hierbleiben'): 1
+('hierbleiben', 'noch'): 1
+('noch', 'ihnen'): 1
+('ihnen', 'angesprochen'): 1
+('angesprochen', 'werden'): 1
+('werden', 'solange'): 1
+('solange', 'mir'): 1
+('mir', 'vorstellen'): 1
+('vorstellen', 'gut'): 1
+('gut', 'gemeint'): 1
+('gemeint', 'sagte'): 1
+('sagte', 'fremde'): 1
+('fremde', 'öffnete'): 1
+('öffnete', 'nun'): 1
+('nun', 'freiwillig'): 1
+('freiwillig', 'tür'): 1
+('tür', 'im'): 1
+('nebenzimmer', 'langsamer'): 1
+('langsamer', 'eintrat'): 1
+('eintrat', 'als'): 1
+('als', 'wollte'): 1
+('wollte', 'sah'): 1
+('sah', 'ersten'): 1
+('ersten', 'blick'): 1
+('blick', 'fast'): 1
+('fast', 'genau'): 1
+('genau', 'so'): 1
+('so', 'aus'): 2
+('aus', 'wie'): 1
+('wie', 'am'): 1
+('am', 'abend'): 1
+('abend', 'vorher'): 1
+('vorher', 'wohnzimmer'): 1
+('wohnzimmer', 'frau'): 1
+('grubach', 'vielleicht'): 1
+('vielleicht', 'diesem'): 1
+('diesem', 'möbeln'): 1
+('möbeln', 'decken'): 1
+('decken', 'porzellan'): 1
+('porzellan', 'photographien'): 1
+('photographien', 'überfüllten'): 1
+('überfüllten', 'zimmer'): 1
+('zimmer', 'heute'): 1
+('heute', 'wenig'): 1
+('wenig', 'mehr'): 1
+('mehr', 'raum'): 1
+('raum', 'als'): 1
+('als', 'sonst'): 1
+('sonst', 'man'): 1
+('man', 'erkannte'): 1
+('erkannte', 'gleich'): 1
+('gleich', 'um'): 1
+('um', 'so'): 1
+('so', 'weniger'): 1
+('weniger', 'als'): 1
+('als', 'hauptveränderung'): 1
+('hauptveränderung', 'anwesenheit'): 1
+('anwesenheit', 'eines'): 1
+('eines', 'mannes'): 1
+('mannes', 'bestand'): 1
+('bestand', 'beim'): 1
+('beim', 'offenen'): 1
+('offenen', 'fenster'): 2
+('fenster', 'einem'): 1
+('einem', 'buch'): 1
+('buch', 'saß'): 1
+('saß', 'jetzt'): 1
+('jetzt', 'aufblickte'): 1
+('aufblickte', 'hätten'): 1
+('hätten', 'ihrem'): 1
+('ihrem', 'zimmer'): 1
+('zimmer', 'bleiben'): 1
+('bleiben', 'sollen'): 1
+('sollen', 'hat'): 1
+('hat', 'ihnen'): 1
+('ihnen', 'denn'): 1
+('denn', 'franz'): 1
+('franz', 'gesagt'): 1
+('gesagt', 'ja'): 1
+('ja', 'was'): 1
+('was', 'wollen'): 2
+('wollen', 'denn'): 2
+('sagte', 'sah'): 1
+('sah', 'neuen'): 1
+('neuen', 'bekanntschaft'): 1
+('bekanntschaft', 'franz'): 1
+('franz', 'benannten'): 1
+('benannten', 'tür'): 1
+('tür', 'stehengeblieben'): 1
+('stehengeblieben', 'dann'): 1
+('dann', 'wieder'): 1
+('wieder', 'zurück'): 1
+('zurück', 'durch'): 1
+('durch', 'offene'): 1
+('offene', 'fenster'): 1
+('fenster', 'erblickte'): 1
+('erblickte', 'man'): 1
+('man', 'wieder'): 1
+('wieder', 'alte'): 1
+('frau', 'wahrhaft'): 1
+('wahrhaft', 'greisenhafter'): 1
+('greisenhafter', 'neugierde'): 1
+('neugierde', 'jetzt'): 1
+('jetzt', 'gegenüberliegenden'): 1
+('gegenüberliegenden', 'fenster'): 2
+('fenster', 'getreten'): 1
+('getreten', 'um'): 1
+('um', 'auch'): 1
+('auch', 'weiterhin'): 2
+('weiterhin', 'alles'): 1
+('alles', 'sehn'): 1
+('sehn', 'will'): 1
+('doch', 'frau'): 1
+('grubach', 'sagte'): 1
+('sagte', 'machte'): 1
+('machte', 'bewegung'): 1
+('bewegung', 'als'): 1
+('als', 'reiße'): 1
+('reiße', 'zwei'): 1
+('zwei', 'männern'): 1
+('männern', 'los'): 1
+('los', 'aber'): 1
+('aber', 'weit'): 1
+('weit', 'ihm'): 1
+('ihm', 'entfernt'): 1
+('entfernt', 'standen'): 1
+('standen', 'wollte'): 1
+('wollte', 'weitergehn'): 1
+('weitergehn', 'nein'): 1
+('nein', 'sagte'): 1
+('sagte', 'mann'): 1
+('mann', 'beim'): 1
+('beim', 'fenster'): 2
+('fenster', 'warf'): 1
+('warf', 'buch'): 1
+('buch', 'tischchen'): 1
+('tischchen', 'stand'): 1
+('stand', 'dürfen'): 1
+('dürfen', 'weggehn'): 1
+('weggehn', 'sind'): 1
+('sind', 'ja'): 1
+('ja', 'gefangen'): 1
+('gefangen', 'sieht'): 1
+('sieht', 'so'): 1
+('aus', 'sagte'): 1
+('sagte', 'warum'): 1
+('warum', 'denn'): 1
+('denn', 'fragte'): 1
+('fragte', 'dann'): 1
+('dann', 'wir'): 1
+('wir', 'sind'): 3
+('sind', 'dazu'): 1
+('dazu', 'bestellt'): 1
+('bestellt', 'ihnen'): 1
+('ihnen', 'sagen'): 1
+('sagen', 'gehn'): 1
+('gehn', 'ihr'): 1
+('ihr', 'zimmer'): 2
+('zimmer', 'warten'): 1
+('warten', 'verfahren'): 1
+('verfahren', 'nun'): 1
+('nun', 'einmal'): 1
+('einmal', 'eingeleitet'): 1
+('eingeleitet', 'werden'): 1
+('werden', 'alles'): 3
+('alles', 'zur'): 1
+('zur', 'richtigen'): 1
+('richtigen', 'zeit'): 1
+('zeit', 'erfahren'): 1
+('erfahren', 'gehe'): 1
+('gehe', 'über'): 1
+('über', 'meinen'): 1
+('meinen', 'auftrag'): 1
+('auftrag', 'hinaus'): 1
+('hinaus', 'wenn'): 1
+('wenn', 'ihnen'): 1
+('ihnen', 'so'): 1
+('so', 'freundschaftlich'): 1
+('freundschaftlich', 'zurede'): 1
+('zurede', 'aber'): 1
+('aber', 'hoffe'): 1
+('hoffe', 'hört'): 1
+('hört', 'niemand'): 1
+('niemand', 'sonst'): 1
+('sonst', 'als'): 1
+('als', 'franz'): 1
+('franz', 'selbst'): 1
+('selbst', 'gegen'): 1
+('gegen', 'alle'): 1
+('alle', 'vorschrift'): 1
+('vorschrift', 'freundlich'): 1
+('freundlich', 'ihnen'): 1
+('ihnen', 'wenn'): 1
+('wenn', 'auch'): 1
+('weiterhin', 'so'): 1
+('so', 'viel'): 1
+('viel', 'glück'): 1
+('glück', 'haben'): 1
+('haben', 'wie'): 1
+('wie', 'bei'): 1
+('bei', 'bestimmung'): 1
+('bestimmung', 'ihrer'): 1
+('ihrer', 'wächter'): 1
+('wächter', 'dann'): 1
+('dann', 'können'): 1
+('können', 'zuversichtlich'): 1
+('zuversichtlich', 'sein'): 1
+('sein', 'wollte'): 1
+('wollte', 'setzen'): 1
+('setzen', 'aber'): 1
+('aber', 'nun'): 1
+('nun', 'sah'): 1
+('sah', 'daß'): 1
+('daß', 'im'): 1
+('im', 'ganzen'): 1
+('ganzen', 'zimmer'): 1
+('zimmer', 'keine'): 1
+('keine', 'sitzgelegenheit'): 1
+('sitzgelegenheit', 'außer'): 1
+('außer', 'sessel'): 1
+('sessel', 'beim'): 1
+('fenster', 'werden'): 1
+('werden', 'noch'): 1
+('noch', 'einsehn'): 1
+('einsehn', 'wie'): 1
+('wie', 'wahr'): 1
+('wahr', 'alles'): 1
+('alles', 'sagte'): 1
+('sagte', 'franz'): 2
+('franz', 'ging'): 1
+('ging', 'gleichzeitig'): 1
+('gleichzeitig', 'andern'): 1
+('andern', 'mann'): 1
+('mann', 'ihn'): 1
+('ihn', 'besonders'): 1
+('besonders', 'letztere'): 1
+('letztere', 'überragte'): 1
+('überragte', 'bedeutend'): 1
+('bedeutend', 'klopfte'): 1
+('klopfte', 'ihm'): 1
+('ihm', 'öfters'): 1
+('öfters', 'schulter'): 1
+('schulter', 'beide'): 1
+('beide', 'prüften'): 1
+('prüften', 'nachthemd'): 1
+('nachthemd', 'sagten'): 1
+('sagten', 'daß'): 1
+('daß', 'jetzt'): 1
+('jetzt', 'viel'): 1
+('viel', 'schlechteres'): 1
+('schlechteres', 'hemd'): 1
+('hemd', 'werde'): 1
+('werde', 'anziehn'): 1
+('anziehn', 'müssen'): 1
+('daß', 'aber'): 1
+('aber', 'dieses'): 1
+('dieses', 'hemd'): 1
+('hemd', 'wie'): 1
+('wie', 'auch'): 1
+('auch', 'seine'): 1
+('seine', 'übrige'): 1
+('übrige', 'wäsche'): 1
+('wäsche', 'aufbewahren'): 1
+('aufbewahren', 'wenn'): 1
+('wenn', 'seine'): 1
+('seine', 'sache'): 1
+('sache', 'günstig'): 1
+('günstig', 'ausfallen'): 1
+('ausfallen', 'sollte'): 1
+('sollte', 'ihm'): 1
+('ihm', 'wieder'): 1
+('wieder', 'zurückgeben'): 1
+('zurückgeben', 'würden'): 1
+('würden', 'besser'): 1
+('besser', 'geben'): 1
+('geben', 'sachen'): 1
+('sachen', 'uns'): 1
+('uns', 'als'): 1
+('als', 'ins'): 1
+('ins', 'depot'): 1
+('depot', 'sagten'): 1
+('sagten', 'denn'): 1
+('denn', 'im'): 1
+('im', 'depot'): 1
+('depot', 'kommen'): 1
+('kommen', 'öfters'): 1
+('öfters', 'unterschleife'): 1
+('unterschleife', 'vor'): 1
+('vor', 'außerdem'): 1
+('außerdem', 'verkauft'): 1
+('verkauft', 'man'): 1
+('man', 'dort'): 1
+('dort', 'alle'): 1
+('alle', 'sachen'): 1
+('sachen', 'nach'): 1
+('nach', 'einer'): 1
+('einer', 'gewissen'): 1
+('gewissen', 'zeit'): 1
+('zeit', 'ohne'): 1
+('ohne', 'rücksicht'): 1
+('rücksicht', 'ob'): 1
+('ob', 'betreffende'): 1
+('betreffende', 'verfahren'): 1
+('verfahren', 'ende'): 1
+('ende', 'oder'): 1
+('oder', 'wie'): 1
+('wie', 'lange'): 1
+('lange', 'dauern'): 1
+('dauern', 'doch'): 1
+('doch', 'derartige'): 1
+('derartige', 'prozesse'): 1
+('prozesse', 'besonders'): 1
+('besonders', 'letzter'): 1
+('letzter', 'zeit'): 1
+('zeit', 'bekämen'): 1
+('bekämen', 'dann'): 1
+('dann', 'schließlich'): 1
+('schließlich', 'allerdings'): 1
+('allerdings', 'vom'): 1
+('vom', 'depot'): 1
+('depot', 'erlös'): 1
+('erlös', 'aber'): 1
+('dieser', 'erlös'): 1
+('erlös', 'erstens'): 1
+('erstens', 'an'): 1
+('an', 'schon'): 1
+('schon', 'gering'): 1
+('gering', 'denn'): 1
+('denn', 'beim'): 1
+('beim', 'verkauf'): 1
+('verkauf', 'entscheidet'): 1
+('entscheidet', 'höhe'): 1
+('höhe', 'des'): 1
+('des', 'angebotes'): 1
+('angebotes', 'sondern'): 1
+('sondern', 'höhe'): 1
+('höhe', 'bestechung'): 1
+('bestechung', 'weiter'): 1
+('weiter', 'verringern'): 1
+('verringern', 'solche'): 1
+('solche', 'erlöse'): 1
+('erlöse', 'erfahrungsgemäß'): 1
+('erfahrungsgemäß', 'wenn'): 1
+('wenn', 'hand'): 1
+('hand', 'hand'): 1
+('hand', 'jahr'): 1
+('jahr', 'jahr'): 1
+('jahr', 'weitergegeben'): 1
+('weitergegeben', 'werden'): 1
+('werden', 'achtete'): 1
+('achtete', 'diese'): 1
+('diese', 'reden'): 1
+('reden', 'kaum'): 1
+('kaum', 'verfügungsrecht'): 1
+('verfügungsrecht', 'über'): 1
+('über', 'seine'): 2
+('seine', 'sachen'): 1
+('sachen', 'vielleicht'): 1
+('vielleicht', 'noch'): 1
+('noch', 'besaß'): 1
+('besaß', 'schätzte'): 1
+('schätzte', 'hoch'): 1
+('hoch', 'viel'): 1
+('viel', 'wichtiger'): 1
+('wichtiger', 'ihm'): 1
+('ihm', 'klarheit'): 1
+('klarheit', 'über'): 1
+('seine', 'lage'): 1
+('lage', 'bekommen'): 1
+('bekommen', 'gegenwart'): 1
+('gegenwart', 'dieser'): 1
+('dieser', 'leute'): 1
+('leute', 'konnte'): 1
+('konnte', 'aber'): 1
+('aber', 'einmal'): 1
+('einmal', 'nachdenken'): 1
+('nachdenken', 'immer'): 1
+('immer', 'wieder'): 1
+('wieder', 'stieß'): 1
+('stieß', 'bauch'): 1
+('bauch', 'des'): 1
+('des', 'zweiten'): 1
+('zweiten', 'wächters'): 1
+('wächters', 'konnten'): 1
+('konnten', 'ja'): 1
+('ja', 'nur'): 1
+('nur', 'wächter'): 1
+('wächter', 'sein'): 1
+('sein', 'förmlich'): 1
+('förmlich', 'freundschaftlich'): 1
+('freundschaftlich', 'an'): 1
+('an', 'ihn'): 1
+('ihn', 'sah'): 1
+('sah', 'aber'): 1
+('aber', 'dann'): 1
+('dann', 'erblickte'): 1
+('erblickte', 'diesem'): 1
+('diesem', 'dicken'): 1
+('dicken', 'körper'): 1
+('körper', 'gar'): 1
+('gar', 'passendes'): 1
+('passendes', 'trockenes'): 1
+('trockenes', 'knochiges'): 1
+('knochiges', 'gesicht'): 1
+('gesicht', 'starker'): 1
+('starker', 'seitlich'): 1
+('seitlich', 'gedrehter'): 1
+('gedrehter', 'nase'): 1
+('nase', 'über'): 1
+('über', 'ihn'): 1
+('ihn', 'hinweg'): 1
+('hinweg', 'andern'): 1
+('andern', 'wächter'): 1
+('wächter', 'verständigte'): 1
+('verständigte', 'was'): 1
+('was', 'waren'): 1
+('waren', 'denn'): 1
+('denn', 'für'): 1
+('für', 'menschen'): 1
+('menschen', 'wovon'): 1
+('wovon', 'sprachen'): 1
+('sprachen', 'welcher'): 1
+('welcher', 'behörde'): 1
+('behörde', 'gehörten'): 1
+('gehörten', 'an'): 1
+('an', 'lebte'): 1
+('lebte', 'doch'): 1
+('doch', 'einem'): 1
+('einem', 'rechtsstaat'): 1
+('rechtsstaat', 'überall'): 1
+('überall', 'herrschte'): 1
+('herrschte', 'friede'): 1
+('friede', 'alle'): 1
+('alle', 'gesetze'): 1
+('gesetze', 'bestanden'): 1
+('bestanden', 'aufrecht'): 1
+('aufrecht', 'wer'): 1
+('wer', 'wagte'): 1
+('wagte', 'ihn'): 1
+('ihn', 'seiner'): 1
+('seiner', 'wohnung'): 1
+('wohnung', 'überfallen'): 1
+('überfallen', 'neigte'): 1
+('neigte', 'stets'): 1
+('stets', 'dazu'): 1
+('dazu', 'alles'): 1
+('alles', 'möglichst'): 1
+('möglichst', 'leicht'): 1
+('leicht', 'nehmen'): 1
+('nehmen', 'schlimmste'): 1
+('schlimmste', 'erst'): 1
+('erst', 'beim'): 1
+('beim', 'eintritt'): 1
+('eintritt', 'des'): 1
+('des', 'schlimmsten'): 1
+('schlimmsten', 'glauben'): 1
+('glauben', 'keine'): 1
+('keine', 'vorsorge'): 1
+('vorsorge', 'für'): 1
+('für', 'zukunft'): 1
+('zukunft', 'treffen'): 1
+('treffen', 'selbst'): 1
+('selbst', 'wenn'): 2
+('wenn', 'alles'): 1
+('alles', 'drohte'): 1
+('drohte', 'hier'): 1
+('hier', 'schien'): 1
+('ihm', 'aber'): 1
+('aber', 'richtig'): 1
+('richtig', 'man'): 1
+('man', 'konnte'): 1
+('konnte', 'zwar'): 1
+('zwar', 'ganze'): 1
+('ganze', 'als'): 1
+('als', 'spaß'): 1
+('spaß', 'ansehn'): 1
+('ansehn', 'als'): 1
+('als', 'einen'): 1
+('einen', 'groben'): 1
+('groben', 'spaß'): 1
+('spaß', 'ihm'): 1
+('ihm', 'aus'): 1
+('aus', 'unbekannten'): 1
+('unbekannten', 'gründen'): 1
+('gründen', 'vielleicht'): 1
+('vielleicht', 'weil'): 1
+('weil', 'heute'): 1
+('heute', 'sein'): 1
+('sein', 'dreißigster'): 1
+('dreißigster', 'geburtstag'): 1
+('geburtstag', 'kollegen'): 1
+('kollegen', 'bank'): 1
+('bank', 'veranstaltet'): 1
+('veranstaltet', 'hatten'): 1
+('hatten', 'natürlich'): 1
+('natürlich', 'möglich'): 1
+('möglich', 'vielleicht'): 1
+('vielleicht', 'brauchte'): 1
+('brauchte', 'nur'): 1
+('nur', 'irgendeine'): 1
+('irgendeine', 'weise'): 1
+('weise', 'wächtern'): 1
+('wächtern', 'ins'): 1
+('ins', 'gesicht'): 1
+('gesicht', 'lachen'): 1
+('lachen', 'würden'): 1
+('würden', 'mitlachen'): 1
+('mitlachen', 'vielleicht'): 1
+('vielleicht', 'waren'): 1
+('waren', 'dienstmänner'): 1
+('dienstmänner', 'straßenecke'): 1
+('straßenecke', 'sahen'): 1
+('sahen', 'ihnen'): 1
+('ihnen', 'unähnlich'): 1
+('unähnlich', 'trotzdem'): 1
+('trotzdem', 'diesmal'): 1
+('diesmal', 'förmlich'): 1
+('förmlich', 'schon'): 1
+('schon', 'seit'): 1
+('seit', 'ersten'): 1
+('ersten', 'anblick'): 1
+('anblick', 'des'): 1
+('des', 'wächters'): 1
+('wächters', 'franz'): 1
+('franz', 'entschlossen'): 1
+('entschlossen', 'geringsten'): 1
+('geringsten', 'vorteil'): 1
+('vorteil', 'vielleicht'): 1
+('vielleicht', 'gegenüber'): 1
+('gegenüber', 'diesen'): 1
+('diesen', 'leuten'): 1
+('leuten', 'besaß'): 1
+('besaß', 'aus'): 1
+('aus', 'hand'): 1
+('hand', 'geben'): 1
+('geben', 'darin'): 1
+('darin', 'daß'): 1
+('man', 'später'): 1
+('später', 'sagen'): 1
+('sagen', 'würde'): 1
+('würde', 'habe'): 1
+('habe', 'keinen'): 1
+('keinen', 'spaß'): 1
+('spaß', 'verstanden'): 1
+('verstanden', 'sah'): 1
+('sah', 'ganz'): 1
+('ganz', 'geringe'): 1
+('geringe', 'gefahr'): 1
+('gefahr', 'wohl'): 1
+('wohl', 'aber'): 1
+('aber', 'erinnerte'): 1
+('erinnerte', 'ohne'): 1
+('daß', 'sonst'): 1
+('sonst', 'seine'): 1
+('seine', 'gewohnheit'): 1
+('gewohnheit', 'gewesen'): 1
+('gewesen', 'wäre'): 3
+('wäre', 'aus'): 1
+('aus', 'erfahrungen'): 1
+('erfahrungen', 'lernen'): 1
+('lernen', 'an'): 1
+('an', 'einige'): 1
+('einige', 'an'): 1
+('an', 'unbedeutende'): 1
+('unbedeutende', 'fälle'): 1
+('fälle', 'denen'): 1
+('denen', 'zum'): 1
+('zum', 'unterschied'): 1
+('unterschied', 'seinen'): 1
+('seinen', 'freunden'): 1
+('freunden', 'bewußtsein'): 1
+('bewußtsein', 'ohne'): 1
+('ohne', 'geringste'): 1
+('geringste', 'gefühl'): 1
+('gefühl', 'für'): 1
+('für', 'möglichen'): 1
+('möglichen', 'folgen'): 1
+('folgen', 'unvorsichtig'): 1
+('unvorsichtig', 'benommen'): 1
+('benommen', 'hatte'): 1
+('hatte', 'dafür'): 1
+('dafür', 'durch'): 1
+('durch', 'ergebnis'): 1
+('ergebnis', 'gestraft'): 1
+('gestraft', 'worden'): 1
+('worden', 'sollte'): 1
+('sollte', 'wieder'): 1
+('wieder', 'geschehen'): 1
+('geschehen', 'zumindest'): 1
+('zumindest', 'diesmal'): 1
+('diesmal', 'komödie'): 1
+('komödie', 'so'): 1
+('so', 'wollte'): 1
+('wollte', 'mitspielen'): 1
+('mitspielen', 'noch'): 1
+('noch', 'frei'): 1
+('frei', 'erlauben'): 1
+('erlauben', 'sagte'): 1
+('sagte', 'ging'): 1
+('ging', 'eilig'): 1
+('eilig', 'zwischen'): 1
+('zwischen', 'wächtern'): 1
+('wächtern', 'durch'): 1
+('durch', 'sein'): 1
+('sein', 'zimmer'): 3
+('zimmer', 'scheint'): 1
+('scheint', 'vernünftig'): 1
+('vernünftig', 'sein'): 1
+('sein', 'hörte'): 1
+('hörte', 'hinter'): 1
+('hinter', 'sagen'): 1
+('sagen', 'seinem'): 1
+('seinem', 'zimmer'): 1
+('zimmer', 'riß'): 1
+('riß', 'gleich'): 1
+('gleich', 'schubladen'): 1
+('schubladen', 'des'): 1
+('des', 'schreibtischs'): 1
+('schreibtischs', 'lag'): 1
+('lag', 'dort'): 1
+('dort', 'alles'): 1
+('alles', 'großer'): 1
+('großer', 'ordnung'): 1
+('ordnung', 'aber'): 1
+('aber', 'gerade'): 1
+('gerade', 'legitimationspapiere'): 1
+('legitimationspapiere', 'suchte'): 1
+('suchte', 'konnte'): 1
+('konnte', 'aufregung'): 1
+('aufregung', 'gleich'): 1
+('gleich', 'finden'): 1
+('finden', 'schließlich'): 1
+('schließlich', 'fand'): 1
+('fand', 'seine'): 1
+('seine', 'radfahrlegitimation'): 1
+('radfahrlegitimation', 'wollte'): 1
+('wollte', 'schon'): 1
+('schon', 'ihr'): 1
+('ihr', 'wächtern'): 1
+('wächtern', 'gehn'): 1
+('gehn', 'dann'): 1
+('ihm', 'papier'): 1
+('papier', 'geringfügig'): 1
+('geringfügig', 'suchte'): 1
+('suchte', 'weiter'): 1
+('weiter', 'bis'): 1
+('bis', 'geburtsschein'): 1
+('geburtsschein', 'fand'): 1
+('fand', 'als'): 1
+('als', 'wieder'): 1
+('wieder', 'nebenzimmer'): 1
+('nebenzimmer', 'zurückkam'): 1
+('zurückkam', 'öffnete'): 1
+('öffnete', 'gerade'): 1
+('gerade', 'gegenüberliegende'): 1
+('gegenüberliegende', 'tür'): 1
+('tür', 'frau'): 1
+('grubach', 'wollte'): 1
+('wollte', 'dort'): 1
+('dort', 'eintreten'): 1
+('eintreten', 'man'): 1
+('man', 'sah'): 1
+('sah', 'nur'): 1
+('nur', 'einen'): 1
+('einen', 'augenblick'): 1
+('augenblick', 'denn'): 1
+('denn', 'kaum'): 1
+('kaum', 'hatte'): 1
+('hatte', 'erkannt'): 1
+('erkannt', 'als'): 1
+('als', 'offenbar'): 1
+('offenbar', 'verlegen'): 1
+('verlegen', 'wurde'): 1
+('wurde', 'um'): 1
+('um', 'verzeihung'): 1
+('verzeihung', 'bat'): 1
+('bat', 'verschwand'): 1
+('verschwand', 'äußerst'): 1
+('äußerst', 'vorsichtig'): 1
+('vorsichtig', 'tür'): 1
+('tür', 'schloß'): 1
+('schloß', 'kommen'): 1
+('kommen', 'doch'): 1
+('doch', 'herein'): 1
+('herein', 'hatte'): 1
+('hatte', 'gerade'): 1
+('gerade', 'noch'): 1
+('noch', 'sagen'): 1
+('sagen', 'können'): 1
+('können', 'nun'): 1
+('nun', 'aber'): 1
+('aber', 'stand'): 1
+('stand', 'seinen'): 1
+('seinen', 'papieren'): 1
+('papieren', 'mitte'): 1
+('mitte', 'des'): 2
+('des', 'zimmers'): 3
+('zimmers', 'sah'): 1
+('sah', 'noch'): 1
+('noch', 'tür'): 1
+('tür', 'hin'): 1
+('hin', 'wieder'): 1
+('wieder', 'öffnete'): 1
+('öffnete', 'wurde'): 1
+('wurde', 'erst'): 1
+('erst', 'durch'): 1
+('durch', 'einen'): 1
+('einen', 'anruf'): 1
+('anruf', 'wächter'): 1
+('wächter', 'aufgeschreckt'): 1
+('aufgeschreckt', 'bei'): 1
+('bei', 'tischchen'): 1
+('tischchen', 'am'): 1
+('am', 'offenen'): 1
+('fenster', 'saßen'): 1
+('saßen', 'wie'): 1
+('wie', 'jetzt'): 1
+('jetzt', 'erkannte'): 1
+('erkannte', 'sein'): 1
+('sein', 'frühstück'): 2
+('frühstück', 'verzehrten'): 1
+('verzehrten', 'warum'): 1
+('warum', 'eingetreten'): 1
+('eingetreten', 'fragte'): 1
+('fragte', 'darf'): 1
+('darf', 'sagte'): 1
+('sagte', 'große'): 1
+('große', 'wächter'): 2
+('wächter', 'sind'): 1
+('sind', 'doch'): 1
+('doch', 'verhaftet'): 1
+('verhaftet', 'wie'): 1
+('wie', 'kann'): 1
+('kann', 'denn'): 1
+('denn', 'verhaftet'): 1
+('verhaftet', 'sein'): 1
+('sein', 'gar'): 1
+('gar', 'diese'): 1
+('diese', 'weise'): 1
+('weise', 'nun'): 1
+('nun', 'fangen'): 1
+('fangen', 'also'): 1
+('also', 'wieder'): 1
+('wieder', 'an'): 1
+('an', 'sagte'): 1
+('sagte', 'wächter'): 4
+('wächter', 'tauchte'): 1
+('tauchte', 'butterbrot'): 1
+('butterbrot', 'ins'): 1
+('ins', 'honigfäßchen'): 1
+('honigfäßchen', 'solche'): 1
+('solche', 'fragen'): 1
+('fragen', 'beantworten'): 1
+('beantworten', 'wir'): 1
+('wir', 'werden'): 1
+('werden', 'beantworten'): 1
+('beantworten', 'müssen'): 1
+('müssen', 'sagte'): 1
+('sagte', 'hier'): 2
+('hier', 'sind'): 2
+('sind', 'meine'): 2
+('meine', 'legitimationspapiere'): 2
+('legitimationspapiere', 'zeigen'): 1
+('zeigen', 'mir'): 1
+('mir', 'jetzt'): 1
+('jetzt', 'ihrigen'): 1
+('ihrigen', 'vor'): 1
+('vor', 'allem'): 1
+('allem', 'verhaftbefehl'): 1
+('verhaftbefehl', 'du'): 1
+('du', 'lieber'): 1
+('lieber', 'himmel'): 1
+('himmel', 'sagte'): 1
+('wächter', 'daß'): 1
+('daß', 'ihre'): 1
+('ihre', 'lage'): 1
+('lage', 'fügen'): 1
+('fügen', 'können'): 1
+('können', 'daß'): 2
+('daß', 'darauf'): 1
+('darauf', 'angelegt'): 1
+('angelegt', 'haben'): 1
+('haben', 'scheinen'): 1
+('scheinen', 'uns'): 1
+('uns', 'wir'): 1
+('wir', 'ihnen'): 1
+('ihnen', 'jetzt'): 1
+('jetzt', 'wahrscheinlich'): 1
+('wahrscheinlich', 'allen'): 1
+('allen', 'ihren'): 1
+('ihren', 'mitmenschen'): 1
+('mitmenschen', 'am'): 1
+('am', 'nächsten'): 1
+('nächsten', 'stehn'): 1
+('stehn', 'nutzlos'): 1
+('nutzlos', 'reizen'): 1
+('reizen', 'so'): 1
+('so', 'glauben'): 1
+('glauben', 'doch'): 1
+('doch', 'sagte'): 1
+('franz', 'führte'): 1
+('führte', 'kaffeetasse'): 1
+('kaffeetasse', 'hand'): 1
+('hand', 'hielt'): 1
+('hielt', 'zum'): 1
+('zum', 'mund'): 1
+('mund', 'sondern'): 1
+('sondern', 'sah'): 1
+('sah', 'einem'): 1
+('einem', 'langen'): 1
+('langen', 'wahrscheinlich'): 1
+('wahrscheinlich', 'bedeutungsvollen'): 1
+('bedeutungsvollen', 'aber'): 1
+('aber', 'unverständlichen'): 1
+('unverständlichen', 'blick'): 1
+('blick', 'an'): 1
+('an', 'ließ'): 1
+('ließ', 'ohne'): 1
+('ohne', 'wollen'): 1
+('wollen', 'zwiegespräch'): 1
+('zwiegespräch', 'blicke'): 1
+('blicke', 'franz'): 1
+('franz', 'schlug'): 1
+('schlug', 'dann'): 1
+('aber', 'doch'): 1
+('doch', 'seine'): 1
+('seine', 'papiere'): 1
+('papiere', 'sagte'): 1
+('legitimationspapiere', 'was'): 1
+('was', 'kümmern'): 1
+('kümmern', 'uns'): 1
+('uns', 'denn'): 1
+('denn', 'rief'): 1
+('rief', 'nun'): 1
+('nun', 'schon'): 1
+('schon', 'große'): 1
+('wächter', 'führen'): 1
+('führen', 'ärger'): 1
+('ärger', 'als'): 1
+('als', 'kind'): 1
+('kind', 'was'): 1
+('denn', 'wollen'): 1
+('wollen', 'ihren'): 1
+('ihren', 'großen'): 1
+('großen', 'verfluchten'): 1
+('verfluchten', 'prozeß'): 1
+('prozeß', 'dadurch'): 1
+('dadurch', 'einem'): 1
+('einem', 'raschen'): 1
+('raschen', 'ende'): 1
+('ende', 'bringen'): 1
+('bringen', 'daß'): 1
+('daß', 'uns'): 1
+('uns', 'wächtern'): 1
+('wächtern', 'über'): 1
+('über', 'legitimation'): 1
+('legitimation', 'verhaftbefehl'): 1
+('verhaftbefehl', 'diskutieren'): 1
+('diskutieren', 'wir'): 1
+('sind', 'niedrige'): 1
+('niedrige', 'angestellte'): 1
+('angestellte', 'einem'): 1
+('einem', 'legitimationspapier'): 1
+('legitimationspapier', 'kaum'): 1
+('kaum', 'auskennen'): 1
+('auskennen', 'ihrer'): 1
+('ihrer', 'sache'): 1
+('sache', 'nichts'): 1
+('nichts', 'anderes'): 1
+('anderes', 'tun'): 1
+('tun', 'haben'): 1
+('haben', 'als'): 1
+('als', 'daß'): 1
+('daß', 'zehn'): 1
+('zehn', 'stunden'): 1
+('stunden', 'täglich'): 1
+('täglich', 'bei'): 1
+('bei', 'ihnen'): 1
+('ihnen', 'wache'): 1
+('wache', 'halten'): 1
+('halten', 'dafür'): 1
+('dafür', 'bezahlt'): 1
+('bezahlt', 'werden'): 1
+('alles', 'was'): 1
+('was', 'wir'): 1
+('sind', 'trotzdem'): 1
+('trotzdem', 'aber'): 1
+('aber', 'sind'): 1
+('sind', 'wir'): 2
+('wir', 'fähig'): 1
+('fähig', 'einzusehn'): 1
+('einzusehn', 'daß'): 1
+('daß', 'hohen'): 1
+('hohen', 'behörden'): 1
+('behörden', 'deren'): 1
+('deren', 'dienst'): 1
+('dienst', 'wir'): 1
+('wir', 'stehn'): 1
+('stehn', 'ehe'): 1
+('ehe', 'solche'): 1
+('solche', 'verhaftung'): 1
+('verhaftung', 'verfügen'): 1
+('verfügen', 'sehr'): 1
+('sehr', 'genau'): 1
+('genau', 'über'): 1
+('über', 'gründe'): 1
+('gründe', 'verhaftung'): 1
+('verhaftung', 'person'): 1
+('person', 'des'): 1
+('des', 'verhafteten'): 1
+('verhafteten', 'unterrichten'): 1
+('unterrichten', 'gibt'): 1
+('gibt', 'darin'): 1
+('darin', 'keinen'): 1
+('keinen', 'irrtum'): 1
+('irrtum', 'unsere'): 1
+('unsere', 'behörde'): 1
+('behörde', 'soweit'): 1
+('soweit', 'kenne'): 1
+('kenne', 'kenne'): 1
+('kenne', 'nur'): 1
+('nur', 'niedrigsten'): 1
+('niedrigsten', 'grade'): 1
+('grade', 'sucht'): 1
+('sucht', 'doch'): 1
+('doch', 'etwa'): 1
+('etwa', 'schuld'): 1
+('schuld', 'bevölkerung'): 1
+('bevölkerung', 'sondern'): 1
+('sondern', 'wird'): 1
+('wird', 'wie'): 1
+('wie', 'im'): 1
+('im', 'gesetz'): 1
+('gesetz', 'heißt'): 1
+('heißt', 'schuld'): 1
+('schuld', 'angezogen'): 1
+('angezogen', 'muß'): 1
+('muß', 'uns'): 1
+('uns', 'wächter'): 1
+('wächter', 'ausschicken'): 1
+('ausschicken', 'gesetz'): 1
+('gesetz', 'wo'): 1
+('wo', 'gäbe'): 1
+('gäbe', 'da'): 1
+('da', 'einen'): 1
+('einen', 'irrtum'): 1
+('irrtum', 'dieses'): 1
+('dieses', 'gesetz'): 1
+('gesetz', 'kenne'): 1
+('kenne', 'sagte'): 1
+('sagte', 'desto'): 1
+('desto', 'schlimmer'): 1
+('schlimmer', 'für'): 1
+('für', 'sagte'): 1
+('wächter', 'besteht'): 1
+('besteht', 'wohl'): 1
+('wohl', 'auch'): 1
+('auch', 'nur'): 1
+('nur', 'ihren'): 1
+('ihren', 'köpfen'): 1
+('köpfen', 'sagte'): 1
+('sagte', 'wollte'): 1
+('wollte', 'irgendwie'): 1
+('irgendwie', 'gedanken'): 1
+('gedanken', 'wächter'): 1
+('wächter', 'einschleichen'): 1
+('einschleichen', 'seinen'): 1
+('seinen', 'gunsten'): 1
+('gunsten', 'wenden'): 1
+('wenden', 'oder'): 1
+('oder', 'dort'): 1
+('dort', 'einbürgern'): 1
+('einbürgern', 'aber'): 1
+('aber', 'wächter'): 1
+('wächter', 'sagte'): 1
+('sagte', 'nur'): 1
+('nur', 'abweisend'): 1
+('abweisend', 'werden'): 1
+('werden', 'fühlen'): 1
+('fühlen', 'bekommen'): 1
+('bekommen', 'franz'): 1
+('franz', 'mischte'): 1
+('mischte', 'sagte'): 1
+('sagte', 'sieh'): 1
+('sieh', 'willem'): 1
+('willem', 'gibt'): 1
+('gibt', 'kenne'): 1
+('kenne', 'gesetz'): 1
+('gesetz', 'behauptet'): 1
+('behauptet', 'gleichzeitig'): 1
+('gleichzeitig', 'schuldlos'): 1
+('schuldlos', 'sein'): 1
+('sein', 'du'): 1
+('du', 'hast'): 1
+('hast', 'ganz'): 1
+('ganz', 'recht'): 1
+('recht', 'aber'): 1
+('aber', 'ihm'): 1
+('ihm', 'kann'): 1
+('kann', 'man'): 2
+('man', 'nichts'): 1
+('nichts', 'begreiflich'): 1
+('begreiflich', 'machen'): 1
+('machen', 'sagte'): 1
+('sagte', 'andere'): 1
+('andere', 'antwortete'): 1
+('antwortete', 'mehr'): 1
+('mehr', 'muß'): 1
+('muß', 'dachte'): 1
+('dachte', 'durch'): 1
+('durch', 'geschwätz'): 1
+('geschwätz', 'dieser'): 1
+('dieser', 'niedrigsten'): 1
+('niedrigsten', 'organe'): 1
+('organe', 'geben'): 1
+('geben', 'selbst'): 1
+('selbst', 'sein'): 1
+('sein', 'mich'): 1
+('mich', 'noch'): 1
+('noch', 'mehr'): 1
+('mehr', 'verwirren'): 1
+('verwirren', 'lassen'): 1
+('lassen', 'reden'): 1
+('reden', 'doch'): 1
+('doch', 'jedenfalls'): 1
+('jedenfalls', 'dingen'): 1
+('dingen', 'gar'): 1
+('gar', 'verstehn'): 1
+('verstehn', 'ihre'): 1
+('ihre', 'sicherheit'): 1
+('sicherheit', 'nur'): 1
+('nur', 'durch'): 1
+('durch', 'ihre'): 1
+('ihre', 'dummheit'): 1
+('dummheit', 'möglich'): 1
+('möglich', 'paar'): 1
+('paar', 'worte'): 1
+('worte', 'einem'): 1
+('einem', 'mir'): 1
+('mir', 'ebenbürtigen'): 1
+('ebenbürtigen', 'menschen'): 1
+('menschen', 'sprechen'): 1
+('sprechen', 'werde'): 1
+('werde', 'werden'): 1
+('alles', 'unvergleichlich'): 1
+('unvergleichlich', 'klarer'): 1
+('klarer', 'machen'): 1
+('machen', 'als'): 1
+('als', 'längsten'): 1
+('längsten', 'reden'): 1
+('reden', 'diesen'): 1
+('diesen', 'ging'): 1
+('ging', 'einige'): 1
+('einige', 'male'): 1
+('male', 'freien'): 1
+('freien', 'raum'): 1
+('raum', 'des'): 1
+('zimmers', 'ab'): 1
+('ab', 'drüben'): 1
+('drüben', 'sah'): 1
+('sah', 'alte'): 1
+('frau', 'einen'): 1
+('einen', 'noch'): 1
+('noch', 'viel'): 1
+('viel', 'ältern'): 1
+('ältern', 'greis'): 1
+('greis', 'zum'): 1
+('zum', 'fenster'): 1
+('fenster', 'gezerrt'): 1
+('gezerrt', 'hatte'): 1
+('hatte', 'umschlungen'): 1
+('umschlungen', 'hielt'): 1
+('hielt', 'mußte'): 1
+('mußte', 'dieser'): 1
+('dieser', 'schaustellung'): 1
+('schaustellung', 'ende'): 1
+('ende', 'machen'): 1
+('machen', 'führen'): 1
+('führen', 'mich'): 1
+('mich', 'ihrem'): 1
+('ihrem', 'vorgesetzten'): 1
+('vorgesetzten', 'sagte'): 1
+('sagte', 'bis'): 1
+('bis', 'wünscht'): 1
+('wünscht', 'früher'): 1
+('früher', 'sagte'): 1
+('wächter', 'willem'): 1
+('willem', 'genannt'): 1
+('genannt', 'worden'): 1
+('worden', 'nun'): 1
+('nun', 'rate'): 1
+('rate', 'ihnen'): 1
+('ihnen', 'fügte'): 1
+('fügte', 'hinzu'): 1
+('hinzu', 'ihr'): 1
+('zimmer', 'gehn'): 2
+('gehn', 'ruhig'): 1
+('ruhig', 'verhalten'): 1
+('verhalten', 'darauf'): 1
+('darauf', 'warten'): 1
+('warten', 'was'): 1
+('was', 'über'): 1
+('über', 'verfügt'): 1
+('verfügt', 'werden'): 1
+('werden', 'wird'): 1
+('wird', 'wir'): 1
+('wir', 'raten'): 1
+('raten', 'ihnen'): 1
+('ihnen', 'zerstreuen'): 1
+('zerstreuen', 'durch'): 1
+('durch', 'nutzlose'): 1
+('nutzlose', 'gedanken'): 1
+('gedanken', 'sondern'): 1
+('sondern', 'sammeln'): 1
+('sammeln', 'werden'): 1
+('werden', 'große'): 1
+('große', 'anforderungen'): 1
+('anforderungen', 'an'): 1
+('an', 'gestellt'): 1
+('gestellt', 'werden'): 1
+('werden', 'haben'): 1
+('haben', 'uns'): 1
+('uns', 'so'): 1
+('so', 'behandelt'): 1
+('behandelt', 'wie'): 1
+('wie', 'unser'): 1
+('unser', 'entgegenkommen'): 1
+('entgegenkommen', 'verdient'): 1
+('verdient', 'hätte'): 1
+('hätte', 'haben'): 1
+('haben', 'vergessen'): 1
+('vergessen', 'daß'): 1
+('daß', 'wir'): 1
+('wir', 'mögen'): 1
+('mögen', 'wir'): 1
+('wir', 'auch'): 1
+('auch', 'sein'): 1
+('sein', 'was'): 1
+('was', 'immer'): 1
+('immer', 'zumindest'): 1
+('zumindest', 'jetzt'): 1
+('jetzt', 'ihnen'): 2
+('ihnen', 'gegenüber'): 2
+('gegenüber', 'freie'): 1
+('freie', 'männer'): 1
+('männer', 'sind'): 1
+('sind', 'kein'): 1
+('kein', 'kleines'): 1
+('kleines', 'übergewicht'): 1
+('übergewicht', 'trotzdem'): 1
+('trotzdem', 'sind'): 1
+('wir', 'bereit'): 1
+('bereit', 'falls'): 1
+('falls', 'geld'): 1
+('geld', 'haben'): 1
+('haben', 'ihnen'): 1
+('ihnen', 'kleines'): 1
+('kleines', 'frühstück'): 1
+('frühstück', 'aus'): 2
+('aus', 'kaffeehaus'): 1
+('kaffeehaus', 'drüben'): 1
+('drüben', 'bringen'): 1
+('bringen', 'ohne'): 1
+('ohne', 'dieses'): 1
+('dieses', 'angebot'): 1
+('angebot', 'antworten'): 1
+('antworten', 'stand'): 1
+('stand', 'weilchen'): 1
+('weilchen', 'lang'): 1
+('lang', 'still'): 1
+('still', 'vielleicht'): 1
+('vielleicht', 'würden'): 2
+('würden', 'ihn'): 2
+('ihn', 'beiden'): 1
+('beiden', 'wenn'): 1
+('wenn', 'tür'): 1
+('tür', 'des'): 2
+('des', 'folgenden'): 1
+('folgenden', 'zimmers'): 1
+('zimmers', 'oder'): 1
+('oder', 'gar'): 1
+('gar', 'tür'): 1
+('des', 'vorzimmers'): 1
+('vorzimmers', 'öffnen'): 1
+('öffnen', 'würde'): 1
+('würde', 'gar'): 1
+('gar', 'hindern'): 1
+('hindern', 'wagen'): 1
+('wagen', 'vielleicht'): 1
+('vielleicht', 'wäre'): 1
+('wäre', 'einfachste'): 1
+('einfachste', 'lösung'): 1
+('lösung', 'des'): 1
+('des', 'ganzen'): 2
+('ganzen', 'daß'): 1
+('daß', 'spitze'): 1
+('spitze', 'trieb'): 1
+('trieb', 'aber'): 1
+('aber', 'vielleicht'): 1
+('ihn', 'doch'): 1
+('doch', 'packen'): 1
+('packen', 'einmal'): 1
+('einmal', 'niedergeworfen'): 1
+('niedergeworfen', 'so'): 1
+('so', 'auch'): 1
+('auch', 'alle'): 1
+('alle', 'überlegenheit'): 1
+('überlegenheit', 'verloren'): 1
+('verloren', 'jetzt'): 1
+('gegenüber', 'gewisser'): 1
+('gewisser', 'hinsicht'): 1
+('hinsicht', 'doch'): 1
+('doch', 'wahrte'): 1
+('wahrte', 'deshalb'): 1
+('deshalb', 'zog'): 1
+('zog', 'sicherheit'): 1
+('sicherheit', 'lösung'): 1
+('lösung', 'vor'): 1
+('vor', 'wie'): 1
+('wie', 'natürliche'): 1
+('natürliche', 'verlauf'): 1
+('verlauf', 'bringen'): 1
+('bringen', 'mußte'): 1
+('mußte', 'ging'): 1
+('ging', 'sein'): 1
+('zimmer', 'zurück'): 2
+('zurück', 'ohne'): 1
+('daß', 'seiner'): 1
+('seiner', 'seite'): 1
+('seite', 'oder'): 1
+('oder', 'seite'): 1
+('seite', 'wächter'): 1
+('wächter', 'weiteres'): 1
+('weiteres', 'wort'): 1
+('wort', 'gefallen'): 1
+('gefallen', 'wäre'): 1
+('wäre', 'warf'): 1
+('warf', 'sein'): 1
+('sein', 'bett'): 1
+('bett', 'nahm'): 1
+('nahm', 'vom'): 1
+('vom', 'waschtisch'): 1
+('waschtisch', 'einen'): 1
+('einen', 'schönen'): 1
+('schönen', 'apfel'): 1
+('apfel', 'gestern'): 1
+('gestern', 'abend'): 1
+('abend', 'für'): 1
+('für', 'frühstück'): 1
+('frühstück', 'vorbereitet'): 1
+('vorbereitet', 'hatte'): 1
+('hatte', 'jetzt'): 2
+('jetzt', 'sein'): 1
+('sein', 'einziges'): 1
+('einziges', 'frühstück'): 1
+('frühstück', 'jedenfalls'): 1
+('jedenfalls', 'wie'): 1
+('wie', 'beim'): 1
+('beim', 'ersten'): 1
+('ersten', 'großen'): 1
+('großen', 'bissen'): 1
+('bissen', 'versicherte'): 1
+('versicherte', 'viel'): 1
+('viel', 'besser'): 1
+('besser', 'als'): 1
+('als', 'frühstück'): 1
+('aus', 'schmutzigen'): 1
+('schmutzigen', 'nachtcafé'): 1
+('nachtcafé', 'gewesen'): 1
+('wäre', 'durch'): 1
+('durch', 'gnade'): 1
+('gnade', 'wächter'): 1
+('wächter', 'hätte'): 1
+('hätte', 'bekommen'): 1
+('bekommen', 'können'): 1
+('können', 'fühlte'): 1
+('fühlte', 'wohl'): 1
+('wohl', 'zuversichtlich'): 1
+('zuversichtlich', 'bank'): 1
+('bank', 'versäumte'): 1
+('versäumte', 'zwar'): 1
+('zwar', 'heute'): 1
+('heute', 'vormittag'): 1
+('vormittag', 'seinen'): 1
+('seinen', 'dienst'): 1
+('dienst', 'aber'): 1
+('aber', 'bei'): 2
+('bei', 'verhältnismäßig'): 1
+('verhältnismäßig', 'hohen'): 1
+('hohen', 'stellung'): 1
+('stellung', 'dort'): 1
+('dort', 'einnahm'): 1
+('einnahm', 'leicht'): 1
+('leicht', 'entschuldigt'): 1
+('entschuldigt', 'sollte'): 1
+('sollte', 'wirkliche'): 1
+('wirkliche', 'entschuldigung'): 1
+('entschuldigung', 'anführen'): 1
+('anführen', 'gedachte'): 1
+('gedachte', 'tun'): 1
+('tun', 'würde'): 1
+('würde', 'man'): 1
+('man', 'ihm'): 1
+('ihm', 'glauben'): 1
+('glauben', 'was'): 1
+('was', 'diesem'): 1
+('diesem', 'fall'): 1
+('fall', 'begreiflich'): 1
+('begreiflich', 'so'): 1
+('so', 'konnte'): 1
+('konnte', 'frau'): 1
+('grubach', 'als'): 1
+('als', 'zeugin'): 1
+('zeugin', 'führen'): 1
+('führen', 'oder'): 1
+('oder', 'auch'): 1
+('auch', 'beiden'): 1
+('beiden', 'alten'): 1
+('alten', 'drüben'): 1
+('drüben', 'wohl'): 1
+('wohl', 'jetzt'): 1
+('jetzt', 'marsch'): 1
+('marsch', 'zum'): 1
+('zum', 'gegenüberliegenden'): 1
+('fenster', 'waren'): 1
+('waren', 'wunderte'): 1
+('wunderte', 'wenigstens'): 1
+('wenigstens', 'aus'): 1
+('aus', 'gedankengang'): 1
+('gedankengang', 'wächter'): 1
+('wächter', 'wunderte'): 1
+('wunderte', 'ihn'): 1
+('ihn', 'daß'): 1
+('daß', 'ihn'): 1
+('ihn', 'zimmer'): 1
+('zimmer', 'getrieben'): 1
+('getrieben', 'ihn'): 1
+('ihn', 'hier'): 1
+('hier', 'allein'): 1
+('allein', 'gelassen'): 1
+('gelassen', 'hatten'): 1
+('hatten', 'wo'): 1
+('wo', 'doch'): 1
+('doch', 'mehrfache'): 1
+('mehrfache', 'möglichkeit'): 1
+('möglichkeit', 'hatte'): 1
+('hatte', 'umzubringen'): 1
+('umzubringen', 'gleichzeitig'): 1
+('gleichzeitig', 'allerdings'): 1
+('allerdings', 'fragte'): 1
+('fragte', 'aus'): 1
+('aus', 'seinem'): 1
+('seinem', 'gedankengang'): 1
+('gedankengang', 'was'): 1
+('für', 'einen'): 1
+('einen', 'grund'): 1
+('grund', 'haben'): 1
+('haben', 'könnte'): 1
+('könnte', 'tun'): 1
+('tun', 'etwa'): 1
+('etwa', 'weil'): 1
+('weil', 'zwei'): 1
+('zwei', 'nebenan'): 1
+('nebenan', 'saßen'): 1
+('saßen', 'sein'): 1
+('frühstück', 'abgefangen'): 1
+('abgefangen', 'hatten'): 1
+('hatten', 'wäre'): 1
+('wäre', 'so'): 1
+('so', 'sinnlos'): 1
+('sinnlos', 'gewesen'): 1
+('gewesen', 'umzubringen'): 1
+('umzubringen', 'daß'): 1
+('daß', 'selbst'): 1
+('wenn', 'hätte'): 1
+('hätte', 'tun'): 1
+('tun', 'wollen'): 1
+('wollen', 'infolge'): 1
+('infolge', 'sinnlosigkeit'): 1
+('sinnlosigkeit', 'dazu'): 1
+('dazu', 'imstande'): 1
+('imstande', 'gewesen'): 1
+('wäre', 'wäre'): 1
+('wäre', 'geistige'): 1
+('geistige', 'beschränktheit'): 1
+('beschränktheit', 'wächter'): 1
+('wächter', 'so'): 1
+('so', 'auffallend'): 1
+('auffallend', 'gewesen'): 1
+('gewesen', 'so'): 1
+('so', 'hätte'): 1
+('hätte', 'man'): 1
+('man', 'annehmen'): 1
+('annehmen', 'können'): 1
+('daß', 'auch'): 1
+('auch', 'infolge'): 1
+('infolge', 'gleichen'): 1
+('gleichen', 'überzeugung'): 1
+('überzeugung', 'keine'): 1
+('keine', 'gefahr'): 1
+('gefahr', 'darin'): 1
+('darin', 'gesehen'): 1
+('gesehen', 'hätten'): 1
+('hätten', 'ihn'): 1
+('ihn', 'allein'): 1
+('allein', 'lassen'): 1
+('lassen', 'mochten'): 1
+('mochten', 'jetzt'): 1
+('jetzt', 'wenn'): 1
+('wenn', 'wollten'): 1
+('wollten', 'zusehn'): 1
+('zusehn', 'wie'): 1
+('wie', 'einem'): 1
+('einem', 'wandschränkchen'): 1
+('wandschränkchen', 'ging'): 1
+('ging', 'einen'): 1
+('einen', 'guten'): 1
+('guten', 'schnaps'): 1
+('schnaps', 'aufbewahrte'): 1
+('aufbewahrte', 'wie'): 1
+('wie', 'gläschen'): 1
+('gläschen', 'zuerst'): 1
+('zuerst', 'zum'): 1
+('zum', 'ersatz'): 1
+('ersatz', 'des'): 1
+('des', 'frühstücks'): 1
+('frühstücks', 'leerte'): 1
+('leerte', 'wie'): 1
+('wie', 'zweites'): 1
+('zweites', 'gläschen'): 1
+('gläschen', 'dazu'): 1
+('dazu', 'bestimmte'): 1
+('bestimmte', 'ihm'): 1
+('ihm', 'mut'): 1
+('mut', 'machen'): 1
+('machen', 'letztere'): 1
+('letztere', 'nur'): 1
+('nur', 'aus'): 1
+('aus', 'vorsicht'): 1
+('vorsicht', 'für'): 1
+('für', 'unwahrscheinlichen'): 1
+('unwahrscheinlichen', 'fall'): 1
+('fall', 'daß'): 1
+('daß', 'nötig'): 1
+('nötig', 'sein'): 1
+('sein', 'sollte'): 1
+('sollte', 'da'): 1
+('da', 'erschreckte'): 1
+('erschreckte', 'ihn'): 1
+('ihn', 'zuruf'): 1
+('zuruf', 'aus'): 1
+('aus', 'nebenzimmer'): 1
+('nebenzimmer', 'derartig'): 1
+('derartig', 'daß'): 1
+('daß', 'zähnen'): 1
+('zähnen', 'ans'): 1
+('ans', 'glas'): 1
+('glas', 'schlug'): 1
+('schlug', 'aufseher'): 1
+('aufseher', 'ruft'): 1
+('ruft', 'hieß'): 1
+('hieß', 'nur'): 1
+('nur', 'schreien'): 1
+('schreien', 'ihn'): 1
+('ihn', 'erschreckte'): 1
+('erschreckte', 'dieses'): 1
+('dieses', 'kurze'): 1
+('kurze', 'abgehackte'): 1
+('abgehackte', 'militärische'): 1
+('militärische', 'schreien'): 1
+('schreien', 'wächter'): 1
+('wächter', 'franz'): 1
+('franz', 'gar'): 1
+('gar', 'zugetraut'): 1
+('zugetraut', 'hätte'): 1
+('hätte', 'befehl'): 1
+('befehl', 'selbst'): 1
+('selbst', 'ihm'): 1
+('ihm', 'sehr'): 1
+('sehr', 'willkommen'): 1
+('willkommen', 'endlich'): 1
+('endlich', 'rief'): 1
+('rief', 'zurück'): 1
+('zurück', 'versperrte'): 1
+('versperrte', 'wandschrank'): 1
+('wandschrank', 'eilte'): 1
+('eilte', 'sofort'): 1
+('sofort', 'ins'): 1
+('ins', 'nebenzimmer'): 1
+('nebenzimmer', 'dort'): 1
+('dort', 'standen'): 1
+('standen', 'zwei'): 1
+('zwei', 'wächter'): 1
+('wächter', 'jagten'): 1
+('jagten', 'ihn'): 1
+('ihn', 'als'): 1
+('als', 'wäre'): 1
+('wäre', 'selbstverständlich'): 1
+('selbstverständlich', 'wieder'): 1
+('wieder', 'sein'): 1
+('zurück', 'was'): 1
+('was', 'fällt'): 1
+('fällt', 'euch'): 1
+('euch', 'riefen'): 1
+('riefen', 'im'): 1
+('im', 'hemd'): 1
+('hemd', 'wollt'): 1
+('wollt', 'ihr'): 1
+('ihr', 'vor'): 1
+('vor', 'aufseher'): 1
+('aufseher', 'läßt'): 1
+('läßt', 'euch'): 1
+('euch', 'durchprügeln'): 1
+('durchprügeln', 'uns'): 1
+('uns', 'laßt'): 1
+('laßt', 'mich'): 1
+('mich', 'zum'): 1
+('zum', 'teufel'): 1
+('teufel', 'rief'): 1
+('rief', 'schon'): 1
+('schon', 'bis'): 1
+('bis', 'seinem'): 1
+('seinem', 'kleiderkasten'): 1
+('kleiderkasten', 'zurückgedrängt'): 1
+('zurückgedrängt', 'wenn'): 1
+('wenn', 'man'): 1
+('man', 'mich'): 1
+('mich', 'im'): 2
+('bett', 'überfällt'): 1
+('überfällt', 'kann'): 1
+('man', 'erwarten'): 1
+('erwarten', 'mich'): 1
+('im', 'festanzug'): 1
+('festanzug', 'finden'): 1
+('finden', 'hilft'): 1
+('hilft', 'nichts'): 1
+('nichts', 'sagten'): 1
+('sagten', 'wächter'): 1
+('wächter', 'immer'): 1
+('immer', 'wenn'): 1
+('wenn', 'schrie'): 1
+('schrie', 'ganz'): 1
+('ganz', 'ruhig'): 1
+('ruhig', 'ja'): 1
+('ja', 'fast'): 1
+('fast', 'traurig'): 1
+('traurig', 'wurden'): 1
+('wurden', 'ihn'): 1
+('ihn', 'dadurch'): 1
+('dadurch', 'verwirrten'): 1
+('verwirrten', 'oder'): 1
+('oder', 'gewissermaßen'): 1
+('gewissermaßen', 'zur'): 1
+('zur', 'besinnung'): 1
+('besinnung', 'brachten'): 1
+('brachten', 'lächerliche'): 1
+('lächerliche', 'zeremonien'): 1
+('zeremonien', 'brummte'): 1
+('brummte', 'noch'): 1
+('noch', 'hob'): 1
+('hob', 'aber'): 1
+('aber', 'schon'): 1
+('schon', 'einen'): 1
+('einen', 'rock'): 1
+('rock', 'vom'): 1
+('vom', 'stuhl'): 1
+('stuhl', 'hielt'): 1
+('hielt', 'ihn'): 1
+('ihn', 'weilchen'): 1
+('weilchen', 'beiden'): 1
+('beiden', 'händen'): 1
+('händen', 'als'): 1
+('als', 'unterbreite'): 1
+('unterbreite', 'ihn'): 1
+('ihn', 'urteil'): 1
+('urteil', 'wächter'): 1
+('wächter', 'schüttelten'): 1
+('schüttelten', 'köpfe'): 1
+('köpfe', 'muß'): 1
+('muß', 'schwarzer'): 2
+('schwarzer', 'rock'): 2
+('rock', 'sein'): 2
+('sein', 'sagten'): 1
+('sagten', 'warf'): 1
+('warf', 'daraufhin'): 1
+('daraufhin', 'rock'): 1
+('rock', 'boden'): 1
+('boden', 'sagte'): 1
+('sagte', 'wußte'): 1
+('wußte', 'selbst'): 1
+('selbst', 'welchem'): 1
+('welchem', 'sinn'): 1
+('sinn', 'sagte'): 1
+('sagte', 'doch'): 1
+('doch', 'noch'): 1
+('noch', 'hauptverhandlung'): 1
+('hauptverhandlung', 'wächter'): 1
+('wächter', 'lächelten'): 1
+('lächelten', 'blieben'): 1
+('blieben', 'aber'): 1
+('bei', 'ihrem'): 1
+('ihrem', 'muß'): 1
+('sein', 'wenn'): 1
+('wenn', 'dadurch'): 1
+('dadurch', 'sache'): 1
+('sache', 'beschleunige'): 1
+('beschleunige', 'soll'): 1
+('mir', 'recht'): 1
+('recht', 'sein'): 1
+('sein', 'sagte'): 1
+('sagte', 'öffnete'): 1
+('öffnete', 'selbst'): 1
+('selbst', 'kleiderkasten'): 1
+('kleiderkasten', 'suchte'): 1
+('suchte', 'lange'): 1
+('lange', 'unter'): 1
+('unter', 'vielen'): 1
+('vielen', 'kleidern'): 1
+('kleidern', 'wählte'): 1
+('wählte', 'sein'): 1
+('sein', 'bestes'): 1
+('bestes', 'schwarzes'): 1
+('kleid', 'jackettkleid'): 1
+('jackettkleid', 'durch'): 1
+('durch', 'seine'): 1
+('seine', 'taille'): 1
+('taille', 'unter'): 1
+('unter', 'bekannten'): 1
+('bekannten', 'fast'): 1
+('fast', 'aufsehen'): 1
+('aufsehen', 'gemacht'): 1
+('gemacht', 'hatte'): 1
+('hatte', 'zog'): 1
+('zog', 'nun'): 1
+('nun', 'auch'): 1
+('auch', 'anderes'): 1
+('anderes', 'hemd'): 1
+('hemd', 'hervor'): 1
+('hervor', 'begann'): 1
+('begann', 'sorgfältig'): 1
+('sorgfältig', 'anzuziehn'): 1
+('anzuziehn', 'im'): 1
+('im', 'geheimen'): 1
+('geheimen', 'glaubte'): 1
+('glaubte', 'beschleunigung'): 1
+('beschleunigung', 'des'): 1
+('ganzen', 'damit'): 1
+('damit', 'erreicht'): 1
+('erreicht', 'haben'): 1
+('haben', 'daß'): 1
+('daß', 'wächter'): 1
+('wächter', 'vergessen'): 1
+('vergessen', 'hatten'): 1
+('hatten', 'ihn'): 1
+('ihn', 'zum'): 1
+('zum', 'bad'): 1
+('bad', 'zwingen'): 1
+('zwingen', 'beobachtete'): 1
+('beobachtete', 'ob'): 1
+('ob', 'vielleicht'): 1
+('vielleicht', 'daran'): 1
+('daran', 'doch'): 1
+('doch', 'erinnern'): 1
+('erinnern', 'würden'): 1
+('würden', 'aber'): 1
+('aber', 'fiel'): 1
+('fiel', 'ihnen'): 1
+('ihnen', 'natürlich'): 1
+('natürlich', 'gar'): 1
+('gar', 'dagegen'): 1
+('dagegen', 'vergaß'): 1
+('vergaß', 'willem'): 1
+('willem', 'franz'): 1
+('franz', 'meldung'): 1
+('meldung', 'daß'): 1
+('daß', 'anziehe'): 1
+('anziehe', 'zum'): 1
+('zum', 'aufseher'): 1
+('aufseher', 'schicken'): 1
+('schicken', 'als'): 1
+('als', 'vollständig'): 1
+('vollständig', 'angezogen'): 1
+('angezogen', 'mußte'): 1
+('mußte', 'knapp'): 1
+('knapp', 'vor'): 1
+('vor', 'willem'): 1
+('willem', 'durch'): 1
+('durch', 'leere'): 1
+('leere', 'nebenzimmer'): 1
+('nebenzimmer', 'folgende'): 1
+('folgende', 'zimmer'): 1
+('gehn', 'dessen'): 1
+('dessen', 'tür'): 1
+('tür', 'beiden'): 1
+('beiden', 'flügeln'): 1
+('flügeln', 'bereits'): 1
+('bereits', 'geöffnet'): 1
+('geöffnet', 'dieses'): 1
+('dieses', 'zimmer'): 1
+('zimmer', 'wurde'): 1
+('wurde', 'wie'): 1
+('wie', 'genau'): 1
+('genau', 'wußte'): 1
+('wußte', 'seit'): 1
+('seit', 'kurzer'): 1
+('kurzer', 'zeit'): 1
+('zeit', 'einem'): 1
+('einem', 'fräulein'): 1
+('fräulein', 'bürstner'): 1
+('bürstner', 'einer'): 1
+('einer', 'schreibmaschinistin'): 1
+('schreibmaschinistin', 'bewohnt'): 1
+('bewohnt', 'sehr'): 1
+('sehr', 'früh'): 1
+('früh', 'arbeit'): 1
+('arbeit', 'gehen'): 1
+('gehen', 'pflegte'): 1
+('pflegte', 'spät'): 1
+('spät', 'nach'): 1
+('nach', 'hause'): 1
+('hause', 'kam'): 1
+('kam', 'viel'): 1
+('viel', 'mehr'): 1
+('mehr', 'als'): 1
+('als', 'grußworte'): 1
+('grußworte', 'gewechselt'): 1
+('gewechselt', 'hatte'): 1
+('jetzt', 'nachttischchen'): 1
+('nachttischchen', 'ihrem'): 1
+('ihrem', 'bett'): 1
+('bett', 'als'): 1
+('als', 'verhandlungstisch'): 1
+('verhandlungstisch', 'mitte'): 1
+('zimmers', 'gerückt'): 1
+('gerückt', 'aufseher'): 1
+('aufseher', 'saß'): 1
+('saß', 'hinter'): 1
+('hinter', 'ihm'): 1
+('ihm', 'hatte'): 1
+('hatte', 'beine'): 1
+('beine', 'übereinandergeschlagen'): 1
+('übereinandergeschlagen', 'einen'): 1
+('einen', 'arm'): 1
+('arm', 'rückenlehne'): 1
+('rückenlehne', 'des'): 1
+('des', 'stuhles'): 1
+('stuhles', 'gelegt'): 1
